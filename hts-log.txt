@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Wed, 22 Feb 2023 12:06:01 at https://codecanyon.kreativdev.com/coursela/demo/
+(winhttrack https://codecanyon.kreativdev.com/coursela/demo/ -O "/Users/sajjadasaad/websites/coursela" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:06:47	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://codecanyon.kreativdev.com/coursela/demo/codecanyon.kreativdev.com/coursela/terms-&-conditions
+12:07:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://codecanyon.kreativdev.com/coursela/demo/assets/css/owl.video.play.png
+12:08:24	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://codecanyon.kreativdev.com/coursela/demo/blog/codecanyon.kreativdev.com/coursela/terms-&-conditions
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 33 seconds : 152 links scanned, 151 files written (16749972 bytes overall) [15646166 bytes received at 102262 bytes/sec], 1473941 bytes transferred using HTTP compression in 39 files, ratio 17%, 4.9 requests per connection
+(No errors, 3 warnings, 0 messages)
